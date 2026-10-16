@@ -1,0 +1,8 @@
+{
+  "name": "CraftPiece 3D Character Studio & Adventure",
+  "description": "Interactive 3D character viewer, animator, and island exploration sandbox for the CraftPiece pirate model with customizable outfits, animations, and controls.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
